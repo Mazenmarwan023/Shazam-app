@@ -20,6 +20,16 @@ This project implements a Shazam-like music recognition application using Python
 - **Weighted Average**: Allows weighted combination of two files, enabling the generation of new audio inputs.
 - **Graphical User Interface (GUI)**: A user-friendly interface that displays results in a sortable table.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/4021817c-7687-44dc-a8f5-3edd97bdf94e
+
+
+
+
+
 ## Installation
 
 1. Clone the repository:
@@ -52,6 +62,8 @@ This project implements a Shazam-like music recognition application using Python
 
 - [Saif mohamed](https://github.com/seiftaha)
 - [Mahmoud mohamed](https://github.com/mahmouddmo22)
+- [Farha](https://github.com/farha1010)
+- [Eman emad](https://github.com/alyaaa20)
 - [Mazen marwan](https://github.com/Mazenmarwan023)
 
 
